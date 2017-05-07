@@ -1,0 +1,44 @@
+C:\Users\dlopez\Desktop\WineAwakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.exe.config
+C:\Users\dlopez\Desktop\WineAwakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.exe
+C:\Users\dlopez\Desktop\WineAwakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.pdb
+C:\Users\dlopez\Desktop\WineAwakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.csprojResolveAssemblyReference.cache
+C:\Users\dlopez\Desktop\WineAwakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.frmGenerateCodes.resources
+C:\Users\dlopez\Desktop\WineAwakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.Properties.Resources.resources
+C:\Users\dlopez\Desktop\WineAwakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.csproj.GenerateResource.Cache
+C:\Users\dlopez\Desktop\WineAwakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.exe
+C:\Users\dlopez\Desktop\WineAwakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.pdb
+E:\Niagara College\Jobs\student developer\WineAwakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.exe.config
+E:\Niagara College\Jobs\student developer\WineAwakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.exe
+E:\Niagara College\Jobs\student developer\WineAwakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.pdb
+E:\Niagara College\Jobs\student developer\WineAwakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.exe
+E:\Niagara College\Jobs\student developer\WineAwakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.pdb
+E:\Niagara College\Jobs\student developer\WineAwakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.csprojResolveAssemblyReference.cache
+E:\Niagara College\Jobs\student developer\WineAwakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.frmGenerateCodes.resources
+E:\Niagara College\Jobs\student developer\WineAwakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.Properties.Resources.resources
+E:\Niagara College\Jobs\student developer\WineAwakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.csproj.GenerateResource.Cache
+C:\Users\dlopez\Desktop\WineAwakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.Generator2.resources
+C:\Users\dlopez\Documents\GitHub\wineawakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.exe.config
+C:\Users\dlopez\Documents\GitHub\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.exe
+C:\Users\dlopez\Documents\GitHub\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.pdb
+C:\Users\dlopez\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.exe.config
+C:\Users\dlopez\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.exe
+C:\Users\dlopez\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.pdb
+C:\Users\dlopez\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.csprojResolveAssemblyReference.cache
+C:\Users\dlopez\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.Generator2.resources
+C:\Users\dlopez\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.frmGenerateCodes.resources
+C:\Users\dlopez\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.Properties.Resources.resources
+C:\Users\dlopez\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.csproj.GenerateResource.Cache
+C:\Users\dlopez\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.exe
+C:\Users\dlopez\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.pdb
+C:\Users\dlopez.CFAV\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.exe.config
+C:\Users\dlopez.CFAV\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.exe
+C:\Users\dlopez.CFAV\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.pdb
+C:\Users\dlopez.CFAV\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.exe
+C:\Users\dlopez.CFAV\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.pdb
+C:\Users\dlopez.CFAV\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.Generator2.resources
+C:\Users\dlopez.CFAV\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.Properties.Resources.resources
+C:\Users\dlopez.CFAV\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.csproj.GenerateResource.Cache
+C:\Users\rmorris.CFAV\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\bin\Debug\GenerateCodes.exe.config
+C:\Users\rmorris.CFAV\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.exe
+C:\Users\rmorris.CFAV\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.pdb
+C:\Users\dlopez.CFAV\Source\Repos\wineawakenings\GenerateCodes\GenerateCodes\obj\Debug\GenerateCodes.csprojResolveAssemblyReference.cache
